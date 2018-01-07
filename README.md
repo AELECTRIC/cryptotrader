@@ -1,4 +1,6 @@
-# CryptoTrader by [Haschek Solutions](https://haschek.solutions)
+# Forked and updated 
+
+#CryptoTrader by [Haschek Solutions](https://haschek.solutions)
 
 # What does it do?
 The heart of this repo is the ```gdax.php``` file which is a simple implementation of the [GDAX](https://www.gdax.com) API written in PHP.
@@ -99,3 +101,6 @@ Example output:
  [i] Bid price:         2086.86 EUR
  [i] Spread:            4.1199999999999 EUR
 ```
+
+# Resources and Notes
+https://bitcointalk.org/index.php?topic=1944274.0
